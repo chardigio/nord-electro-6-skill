@@ -1,0 +1,5 @@
+# Compiled binaries
+nord
+tests/test_name_uniqueness
+tests/test_bank_spec
+tests/test_planner

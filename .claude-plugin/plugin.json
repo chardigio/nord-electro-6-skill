@@ -1,0 +1,20 @@
+{
+  "name": "nord-electro-6",
+  "version": "1.0.0",
+  "description": "Manage program presets on a Nord Electro 6 keyboard over USB",
+  "author": {
+    "name": "Charlie DiGiovanna",
+    "url": "https://github.com/chardigio"
+  },
+  "repository": "https://github.com/chardigio/nord-electro-6-skill",
+  "license": "MIT",
+  "keywords": [
+    "nord",
+    "electro-6",
+    "keyboard",
+    "usb",
+    "midi",
+    "presets",
+    "macos"
+  ]
+}
