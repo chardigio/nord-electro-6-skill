@@ -1,6 +1,6 @@
 ---
 name: program-nord-electro-6
-description: Manage program presets on a Nord Electro 6 keyboard over USB. Use when the user wants to list, copy, move, swap, rename, or delete programs on their Nord, or arrange programs for a setlist. Triggers on "nord", "electro 6", "program list", "setlist", "arrange programs", or any request to manage keyboard presets.
+description: Manage program presets on a Nord Electro 6 keyboard over USB. Use only when the user names the Electro 6 ("electro 6", "E6", "my old Nord"). Charlie now plays a Nord Electro 7, so a plain "nord", "setlist", or "arrange programs" request goes to program-nord-electro-7.
 ---
 
 # Nord Electro 6 Program Manager
